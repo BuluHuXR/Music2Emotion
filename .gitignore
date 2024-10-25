@@ -1,0 +1,13 @@
+*.out
+__pycache__/
+training/models/
+training/runs/
+training/data/
+training/labelstudio/
+training/labelstudio_3.6/
+training/nomo_song_wav/
+training/nomo_song_wav_1/
+training/nomo_song_wav_2/
+training/test/
+mp3_echonest_xml/
+labelstudio_dataset/
